@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/uyg9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uyg9"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="105dp" />
+
+    <Button
+        android:id="@+id/uyg8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uyg8"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="174dp" />
+
+    <Button
+        android:id="@+id/Uyg55"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uyg55"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="248dp" />
+
+    <Button
+        android:id="@+id/Uyg3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uyg3"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="400dp" />
+
+    <Button
+        android:id="@+id/Uyg10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uyg10"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="34dp" />
+
+    <Button
+        android:id="@+id/Uyg4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uyg4"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="324dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
